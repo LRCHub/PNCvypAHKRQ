@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋する凡人",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-02-08T11:56:45.449486Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋する凡人",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_恋する凡人_スピッツ.txt"
+    }
+  ]
+}
